@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face {
+  font-family: 'Sacramento-Regular';
+  src: local('Sacramento-Regular'), url(./fonts/Sacramento-Regular.ttf) format('truetype');
+}
+
+@font-face {
+  font-family: 'NanumMyeongjo-Regular';
+  src: local('NanumMyeongjo-Regular'), url(./fonts/NanumMyeongjo-Regular.ttf) format('truetype');
+}
