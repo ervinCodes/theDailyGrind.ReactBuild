@@ -106,7 +106,7 @@ body {
 }
 
 h2 {
-  font-family: 'Sacramento', cursive;
+  font-family: 'Sacramento-Regular', cursive;
   font-size: 3em;
 }
 
@@ -120,3 +120,6 @@ p, a, h5, label, h3 {
   box-shadow: 0px 0px 0px 5px white;
 }
 
+.carouselComments {
+  background-color: rgba(0, 0, 0, 0.5);
+}

@@ -5,6 +5,7 @@ import * as serviceWorker from './serviceWorker';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import 'font-awesome/css/font-awesome.css';
 import 'bootstrap-social/bootstrap-social.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import './fonts/Sacramento-Regular.ttf';
 import './fonts/NanumMyeongjo-Regular.ttf';
 import App from './App';
